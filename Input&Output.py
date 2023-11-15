@@ -65,5 +65,3 @@ while(cap.isOpened()):                       # Check if cap is opened
 cap.release()                               # Release cap
 out.release()                               # Release output
 cv2.destroyAllWindows()                     # Destroy all windows
-
-
